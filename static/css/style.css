@@ -1,0 +1,12 @@
+
+body {
+
+    background-image: url('../image/sky.png');
+    background-size: cover;
+    background-position: center;
+
+}
+
+p {
+  color: green;
+}
